@@ -1,0 +1,4 @@
+pages\BasePage.class
+runners\TestFinancialTimesRunner.class
+framework\WebHelper.class
+pages\FinancialTimesPage.class
